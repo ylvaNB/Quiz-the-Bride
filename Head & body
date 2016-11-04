@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title> You may now quiz the bride! </title>
+	</head>
+	<body>
+		<center> <h1 style="color:rgb(55,161,144);"> You May Now Quiz The Bride </h1> 
+	<p> Dette er hjemmesiden til det beste quizlaget på Katta.<br> 
+		Vi har ikke vunnet noe ennå, men det er derfor vi har laget oss denne siden! <br> 
+		Heia, You May Now QUIZ The Bride! <h3> &hearts;</h3> </p>
+	<img src="C:\Users\Ylva\Documents\HTML/kattaquiz.jpg" width= "500" alt="Bilde av en cute-ass katt som du ikke får se :p" />
+	<p> <a href="http://www.vg.no">Her kan dere forberede dere til fredagens høydepunkt, nemlig QUIZ!!!</a> </p> </center>
+		<form action="action_page.php">
+			<h4 style="color:rgb(55,161,144);">Fornavn: <br>
+			<input type="text" name="Fornavn"> <br>
+			Etternavn: <br>
+			<input type="text" name="Etternavn"> <br>
+			<input type="submit" value="Dette er meg."> 
+			</h4>
+		</form>
+	</body>
+</html>
